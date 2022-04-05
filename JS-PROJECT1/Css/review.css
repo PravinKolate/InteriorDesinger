@@ -1,0 +1,35 @@
+.review{
+   background-image: url("../Img/review.png");
+   height:auto;
+}
+.rivewlink{
+background-color: rgba(0, 0, 0, 0.658);
+}
+.rivewlink a{
+   color: white;
+   text-decoration: none;
+   margin-left: 10px;
+   
+}
+.rivewlink a:hover{
+   color: gold;
+   text-decoration: underline;
+}
+.iframe1{
+   border: none;
+   height: 200px;
+
+}
+.frame1{
+   border-right: 5px solid gold;
+   height:207px;
+}
+.cimg{
+   width: 200px;
+   height: 200px;
+   border: 3px solid lavender;
+   margin-left: 40px;
+   float: left;
+   background-position: center;
+  
+}

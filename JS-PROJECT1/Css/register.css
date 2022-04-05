@@ -1,0 +1,20 @@
+.step1 img{
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   border: 3px solid white;
+}
+.step1{
+   background-color: rgba(0, 0, 255, 0.253);
+   height: 140px;
+   text-align: center;
+}
+.box{
+   width:32px;
+   height: 140px;
+   border-right: 5px solid black;
+}
+.step11{
+   background-color: rgba(192, 192, 192, 0.726);
+   height:auto;
+}

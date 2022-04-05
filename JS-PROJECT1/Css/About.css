@@ -1,0 +1,94 @@
+.aboutbanner{
+   background-image: url("../Img/review.png");
+   height:auto;
+}
+
+.aboutlink{
+   background-color: rgba(0, 0, 0, 0.658);
+   }
+   .aboutlink a{
+      color: white;
+      text-decoration: none;
+      margin-left: 10px;
+      
+   }
+   .aboutlink a:hover{
+      color: gold;
+      text-decoration: underline;
+   }
+   .hpara{
+      line-height: 30px;
+   }
+
+
+/* our story */
+
+.our_story{
+   background-image: url(../Img/about2.png);
+
+}
+ .our_text{
+   font-size: 45px;
+  position: relative;
+  top: 40%;
+}
+/* value */
+.value_img{
+   height: 80px;
+   width: 70px;
+   margin: 0 auto;
+}
+
+/* our project */
+.our_pro{
+   background-image: url(../Img/about3.png);
+}
+.our_pro img{
+   width:350px;
+   height:230px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .about_body h3{
+   color: #fff;
+    font-family: hypatia-sans-pro;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 250px;
+}
+.about_return{
+   background-color:rgb(16 11 11 / 28%);
+   margin-top: -30px;
+}
+.about_return h5,a{
+   color: white;
+   margin-left: 50px;
+   font-family: sans-serif;
+   text-decoration: none;
+}
+.about_return h5,a:hover{
+   color: white;
+} */
+
+
+
+
+
+
+
